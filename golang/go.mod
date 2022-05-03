@@ -1,4 +1,4 @@
-module github.com/uptime-com/rest-api-clients/golang
+module github.com/qeqar/rest-api-clients/golang
 
 require (
 	github.com/domainr/whois v0.0.0-20220117141512-d1392057429c
